@@ -1,6 +1,6 @@
 # Copy Folder Google Drive to Google Drive
 
-[Run Colab]((https://vnloader.github.io/LienMinhHuyenThoai/))
+https://ouo.io/K7Uolh Run Colab
 
 ## Giới thiệu
 
